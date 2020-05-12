@@ -1,0 +1,17 @@
+{
+  "name": "reactNatifMeteo",
+  "displayName": "reactNatifMeteo",
+  "expo": {
+    "name": "reactNatifMeteo",
+    "slug": "reactNatifMeteo",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
